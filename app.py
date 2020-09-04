@@ -28,7 +28,7 @@ def sms_reply():
         resp.message("Sumeet is the creator")
     if msg == "Status":
         resp = MessagingResponse()
-        loc = ("C:/Users/s.jesuraj.pillai/AppData/Local/Programs/Python/Python37-32/whatsappbot/Auto.xlsx")
+        loc = ("https://github.com/spillai1947/wbot1950/blob/master/Auto.xlsx")
         wb = openpyxl.load_workbook(loc)
         sheet = wb['WAPP']
         msg1 = sheet.cell(1,1).value
