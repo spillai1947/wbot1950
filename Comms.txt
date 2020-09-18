@@ -1,0 +1,23 @@
+CRQ30320866 - WCC Upgrade | 12th into 13th Sept
+
+Pre-Implementation Phase-1 {19:00 - 19:20} ✅
+
+View Bill and Digital Document Unavailability {19:20 - 19:30} ✅
+
+GRP & Backup Activities {19:30 - 20:40} ✅
+
+Implementation Activity - WCC Upgrade {20:00 - 06:50} 
+◼️Upgrade from 11.1.1.6 to 11.1.1.9 ✅
+◼️Upgrade from WLS12c and WCC12c✅
+◼️OHS Installation🔛
+◼️Configuration Changes & Rolling Restart {Siebel, BRM-BIP, TIL & eCare}
+
+Post-Implementation Activities {06:40 - 07:45} 
+
+DVT {07:15 - 08:15} 
+
+View Bill and Digital Document Availability {08:15 - 08:30} 
+
+BAU & System Monitoring {08:30 - 12:15} 
+
+Next Update {07:00}
